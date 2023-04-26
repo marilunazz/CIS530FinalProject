@@ -1,4 +1,4 @@
-# CIS 530 FinalProject - Computational Linguistics
+# CIS 530 Final Project - Computational Linguistics
 ## Is Text Summarization a Useful Tool for Classification?
 We investigate whether machine learning classification
 algorithms suffer a decrease in performance when
