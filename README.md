@@ -1,4 +1,5 @@
-# CIS530FinalProject
+# CIS530FinalProject - Computational Linguistics
+## Abstract
 We investigate whether machine learning classification
 algorithms suffer a decrease in performance when
 classifying text summaries as opposed to the original
@@ -16,7 +17,7 @@ extractive summaries as input for classification algorithms
 can be an effective way to reduce the amount
 of data without sacrificing performance.
 
-
+## To Run
 Load the Jupyter notebook and make sure in the same directory you find our data ‘reddit_w_extr_summ.csv’.
 
 Run all the set up cells to ensure all packages are imported
