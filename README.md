@@ -1,5 +1,5 @@
-# CIS530FinalProject - Computational Linguistics
-## Abstract
+# CIS 530 FinalProject - Computational Linguistics
+## Is Text Summarization a Useful Tool for Classification?
 We investigate whether machine learning classification
 algorithms suffer a decrease in performance when
 classifying text summaries as opposed to the original
